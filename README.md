@@ -187,42 +187,12 @@ Detailed alert view displaying:
 
 ---
 
-## About Me
-
-**Sebin Mathai**
-
-Certified SOC Analyst (CSA v2) with hands-on experience in:
-
-- Security Operations Center (SOC)
-- Wazuh SIEM
-- Splunk
-- ELK Stack
-- Threat Detection
-- Incident Response
-- File Integrity Monitoring
-- Network Security
-
-### Certifications
-
-- Certified SOC Analyst (CSA v2) – EC-Council
-- Certified IT Infrastructure and Cyber SOC Analyst (CICSA)
-- Certified in Cloud Computing and Cyber Security
-
-### Professional Development
-
-Completed 100+ hands-on labs on:
-
-- TryHackMe
-- Blue Team Labs Online (BTLO)
-- LetsDefend
-- CyberDefenders
-
----
-
 ## Author
 
 **Sebin Mathai**
 
 LinkedIn: https://linkedin.com/in/sebinmathai
+
+Email: sebinmathai919@gmail.com
 
 Kerala, India
