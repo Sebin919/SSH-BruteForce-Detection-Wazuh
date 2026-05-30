@@ -117,7 +117,8 @@ Displays overall security monitoring status, connected agents, and alert severit
 
 ### Agent Monitoring
 
-![Agent Monitoring](screenshots/agents.png)
+<img width="1912" height="871" alt="wazuh bruteforce 2" src="https://github.com/user-attachments/assets/f6c1798d-bc8e-469a-a51b-7079187fd6d6" />
+
 
 Shows active endpoints including Kali Linux, Metasploitable 2, and Windows systems connected to Wazuh.
 
@@ -125,7 +126,8 @@ Shows active endpoints including Kali Linux, Metasploitable 2, and Windows syste
 
 ### SSH Authentication Failure Events
 
-![Authentication Events](screenshots/auth-events.png)
+<img width="1917" height="912" alt="wazuh bruteforce 3" src="https://github.com/user-attachments/assets/47d8fcba-e22e-466d-9e20-192f20f8be92" />
+
 
 Failed SSH login attempts detected from the attacking host and ingested into Wazuh for analysis.
 
@@ -133,7 +135,8 @@ Failed SSH login attempts detected from the attacking host and ingested into Waz
 
 ### Alert Investigation
 
-![Alert Details](screenshots/alert-details.png)
+<img width="1915" height="903" alt="wazuh bruteforce 4" src="https://github.com/user-attachments/assets/c0dae003-15b7-4bc7-9910-742eba6962ba" />
+
 
 Detailed alert view displaying:
 
